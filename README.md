@@ -1,8 +1,4 @@
 # Ecommerce Website README
-![image](https://github.com/anupamthackar/ecommerce_appscript_assignment/assets/70510089/464470de-5d1a-4381-9865-30b2a27494e9)![image](https://github.com/anupamthackar/ecommerce_appscript_assignment/assets/70510089/eea373b0-72a0-44f4-927c-ed007c024bbf)
-![image](https://github.com/anupamthackar/ecommerce_appscript_assignment/assets/70510089/fee6f418-9175-46cd-a4ff-ea315973e0ff)
-![image](https://github.com/anupamthackar/ecommerce_appscript_assignment/assets/70510089/26208b29-8782-4323-81e1-f72b428852fb)
-
 
 ## Overview
 This is an ecommerce website built using React.js with Next.js framework. It utilizes the Fake Store API to populate product data and offers features such as product filtering and sorting.
